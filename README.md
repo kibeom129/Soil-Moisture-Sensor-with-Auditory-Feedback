@@ -1,4 +1,8 @@
-# Project Proposal for a Soil Moisture Sensor with Auditory Feedback Using STM32L4 Cortex-M4 and TL555 Timer
+## Project Demonstration Video
+
+Click on the image below to watch the project demonstration video:
+
+[![Watch the video](https://drive.google.com/uc?export=view&id=1QTKWaGymuPY3Xzg6ghPv-Yo3G9B-tt9C)](https://drive.google.com/file/d/1QTKWaGymuPY3Xzg6ghPv-Yo3G9B-tt9C/view?resourcekey)
 
 ## Introduction
 

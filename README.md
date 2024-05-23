@@ -4,6 +4,12 @@ Click on the image below to watch the project demonstration video:
 
 [![Watch the video](https://drive.google.com/uc?export=view&id=1QTKWaGymuPY3Xzg6ghPv-Yo3G9B-tt9C)](https://drive.google.com/file/d/1QTKWaGymuPY3Xzg6ghPv-Yo3G9B-tt9C/view?resourcekey)
 
+## Project Presentation Slides
+
+For a detailed overview of our project, including diagrams, technical details, and our development process, view our presentation slides:
+
+[View Presentation Slides](https://docs.google.com/presentation/d/1W93WGzWNciMMUmCuppMuS06Y-gGXBqqM1IL80uMkibQ/edit#slide=id.p3)
+
 ## Introduction
 
 In this final project for our EE14 Embedded Systems course, we, Senri Nakamura and Brian Kim, aim to innovate traditional soil moisture detection by developing a system that utilizes a TL555 timer-based circuit interfaced with the STM32L4 Cortex-M4 microcontroller. This system is designed to monitor soil moisture levels accurately, providing essential information for applications in agriculture, gardening, and environmental monitoring. Our unique approach incorporates auditory feedback to convey soil moisture status, facilitating use in various lighting conditions, including complete darkness.
